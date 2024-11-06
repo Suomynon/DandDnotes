@@ -1,0 +1,20 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Languages": "multitext",
+    "Trained Skills": "multitext",
+    "AC": "number",
+    "Perception": "number",
+    "Insight": "number",
+    "Investigation": "number",
+    "Price": "number",
+    "Contains": "multitext",
+    "InLocation": "multitext",
+    "Etnicity": "multitext",
+    "Location": "multitext",
+    "Family name": "multitext",
+    "Class": "multitext"
+  }
+}

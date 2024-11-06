@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "36db3c7d1ba7c220",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d0d838238a253d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a743167044095b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "281de290c7317ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3144e4f09f816c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b568921f548f6a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4fcfe81a5bd71f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5beb1c16ad0e135",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bdef41f6685393d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b521f61955ca44f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b55ee7b38ce1b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-07-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c179ab3d71db067",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-07-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d03c8bd75903b69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "913ec4978bde450f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-07-16.md"
+              }
+            }
+          },
+          {
+            "id": "09b07b44a64ea90e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a8c0e60d95b2014",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b4aa651427d2668",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "77a743167044095b",
+  "lastOpenFiles": [
+    "Dungeon of the Mad Mage/Locations/Locations.md",
+    "2024-07-16.md",
+    "Dungeon of the Mad Mage/Locations/Goblin Markt.md",
+    "Dungeon of the Mad Mage/Locations/Kamer van de \"Tovenaar\".md",
+    "Dungeon of the Mad Mage/Locations/Kamers richting Koperen Vloer.md",
+    "Dungeon of the Mad Mage/Locations/Kamers zuid van de goblin markt.md",
+    "Dungeon of the Mad Mage/Locations/Kamer achter kamer van de tovenaar.md",
+    "z_Attachments/Images/Kamers zuid van de goblin markt-20240714113346409.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113346409.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113346319.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113346244.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113346162.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113346082.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113345996.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113345912.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113345820.webp",
+    "z_Attachments/images/Kamers zuid van de goblin markt-20240714113345728.webp",
+    "Dungeon of the Mad Mage/Locations/Level 2.md",
+    "Dungeon of the Mad Mage/NPCs/Jek dugroottuuh.md",
+    "Dungeon of the Mad Mage/NPCs/Flubberkut.md",
+    "Dungeon of the Mad Mage/NPCs/Glabbo.md",
+    "Dungeon of the Mad Mage/NPCs/Glom.md",
+    "Dungeon of the Mad Mage/Player Characters/Klusjesman.md",
+    "Dungeon of the Mad Mage/Player Characters/Dories.md",
+    "Dungeon of the Mad Mage/Player Characters/Ben.md",
+    "Dungeon of the Mad Mage/Player Characters/Skirk.md",
+    "Dungeon of the Mad Mage/Player Characters/Brock.md",
+    "z_templates/Session Notes Template.md",
+    "z_Attachments/Images",
+    "z_templates/NPC Template.md",
+    "z_templates/Location Template.md",
+    "z_templates/Item Template.md",
+    "z_templates/Character Template.md",
+    "z_Attachments",
+    "z_templates",
+    "Dungeon of the Mad Mage/z_Templates.md",
+    "Dungeon of the Mad Mage/z_attachments.md",
+    "Welcome.md",
+    "Dungeon of the Mad Mage/Session Notes",
+    "Dungeon of the Mad Mage/Player Characters",
+    "Dungeon of the Mad Mage/NPCs",
+    "Dungeon of the Mad Mage/Lore",
+    "Dungeon of the Mad Mage/Locations",
+    "Dungeon of the Mad Mage/Items",
+    "Dungeon of the Mad Mage/Events"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "cc121daae451fdeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e41b87fdbbc270ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fe285ceb18047a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e54309048cb258bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b756f43dc9b40da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9414c2b66e3677a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7df72b680958ae74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c8ba73e8a933801",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c695fa989859190",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1f91ea419c8895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e530a73ac4f70f41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86f89d3392fdc42e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cf93dc2e53b79da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84e073771e5477f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "fa0b053393d761c7",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "f185dc408e538ccd",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "252f08324f15bfb9",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_9bb899c85a79",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 735
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_39e8f88a7b49"
+              }
+            }
+          },
+          {
+            "id": "19ce2f6f356fdb2d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_9bb899c85a79",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 735
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_58096b19b86b"
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "homepage:Open homepage": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "1fe285ceb18047a8",
+  "lastOpenFiles": [
+    "2024-06-02.md",
+    "Home.md",
+    "Curse of Strahd/Locations/Wijngaard.md",
+    "Curse of Strahd/Locations/Vallaki.md",
+    "Curse of Strahd/Locations/Barovia (Land).md",
+    "Curse of Strahd/Locations/Locations.md",
+    "Curse of Strahd/NPCs/NPCs.md",
+    "Curse of Strahd/Player Characters/Player Characters.md",
+    "z_Templates/NPC Template.md",
+    "Curse of Strahd/Player Characters/Tharia.md",
+    "Curse of Strahd/Player Characters/Korvo.md",
+    "Curse of Strahd/Player Characters/Ireena Kolyana.md",
+    "Curse of Strahd/Player Characters/Adelbrand.md",
+    "Recording 20240520195424.webm",
+    "z_Templates/Character Template.md",
+    "z_Templates/Item Template.md",
+    "z_Templates/Location Template.md",
+    "Curse of Strahd/Lore",
+    "Curse of Strahd/Events",
+    "Curse of Strahd/Player Characters",
+    "Curse of Strahd/Items",
+    "Curse of Strahd/Session Notes",
+    "Curse of Strahd/NPCs",
+    "Curse of Strahd",
+    "z_Templates/Session Notes Template.md",
+    "z_Templates",
+    "z_attachments/images/Barovia (Land)-20240510213106741.webp",
+    "z_attachments/images/Vallaki-20240510213058597.webp",
+    "Curse of Strahd/Locations",
+    "attachments/images/Welcome-20240510212951583.webp",
+    "attachments/images/Welcome-20240510212924912.webp",
+    "Welcome.md",
+    "Barovia-hd 1.webp"
+  ]
+}
