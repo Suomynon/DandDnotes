@@ -13,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaap's Campaign/Locations/Locations.md",
+                "file": "Session Notes/Session 20241107.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locations"
+              "title": "Session 20241107"
             }
           }
         ]
@@ -117,8 +116,8 @@
                 "calendar": "ID_696ab9e8b979",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
-                    "month": 10,
+                    "day": 29,
+                    "month": 9,
                     "year": 1349
                   },
                   "viewState": 1,
@@ -135,6 +134,64 @@
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
+            }
+          },
+          {
+            "id": "aa33d724d4510828",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Session 20241107.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 20241107"
+            }
+          },
+          {
+            "id": "6c804212b9568605",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Session 20241107.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 20241107"
+            }
+          },
+          {
+            "id": "b34db1c7610143b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "766b378949ba5592",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/Session 20241107.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 20241107"
             }
           }
         ],
@@ -181,34 +238,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f8ab7a870b96a215",
+  "active": "e09249ba4ef67a10",
   "lastOpenFiles": [
-    "Jaap's Campaign/Locations/The Bay of Liberty/Candlemore/Candlemore.md",
-    "Jaap's Campaign/Locations/Locations.md",
-    "Jaap's Campaign/Lore/Lore.md",
-    "Jaap's Campaign/Lore/Writings of the Lady of Light.md",
-    "Jaap's Campaign/NPCs/NPCs.md",
-    "Session Notes/Session Notes.md",
-    "Jaap's Campaign/NPCs/Bing Biggum.md",
-    "Jaap's Campaign/Items/Items.md",
-    "Jaap's Campaign/Gods/Gods.md",
-    "Jaap's Campaign/1. Player Characters/1. Player Characters.md",
-    "Jaap's Campaign/Gods/Chauntea.md",
-    "Jaap's Campaign/Gods/Spirit of the River.md",
-    "Jaap's Campaign/Gods/Selune.md",
-    "Jaap's Campaign/Gods/Raven Queen.md",
-    "Jaap's Campaign/Gods/Libera.md",
-    "Session Notes/Session 20240926.md",
     "Session Notes/Session 20241010.md",
-    "z_Templates/Session Notes Template.md",
-    "z_Templates/NPC Template.md",
-    "z_Templates/Lore Template.md",
-    "z_Templates/Location Template.md",
-    "z_Templates/Item Template.md",
-    "z_Templates/Character Template.md",
-    "z_Templates/God Template.md",
-    "Jaap's Campaign/Lore/The Order of the Black Knights.md",
-    "Jaap's Campaign/NPCs/Arae O'Brian.md",
+    "Session Notes/Session 20241107.md",
+    "Jaap's Campaign/NPCs/Agatha.md",
+    "Jaap's Campaign/NPCs/Johnny Silverhand.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Candlemore/Town Hall.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Candlemore/Candlemore.md",
+    "Session Notes/Session 20240926.md",
+    "Jaap's Campaign/NPCs/Remiss.md",
+    "Jaap's Campaign/Lore/Writings of the Lady of Light.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Ghiz.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/The Bay of Liberty.md",
+    "z_attachments/images/The Bay of Liberty-20241107112845473.webp",
+    "Jaap's Campaign/Locations/Locations.md",
+    "Jaap's Campaign/NPCs/NPCs.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Candlemore/Temple of Selune.md",
+    "Jaap's Campaign/Gods/Gods.md",
+    "Jaap's Campaign/Gods/Malus.md",
+    "Jaap's Campaign/Gods/Bahamut.md",
+    "Jaap's Campaign/Gods/Lyra.md",
+    "Jaap's Campaign/Gods/Asmodeus.md",
+    "Jaap's Campaign/Gods/Libera.md",
+    "Jaap's Campaign/Gods/Selune.md",
+    "Jaap's Campaign/Gods/Shar.md",
+    "Jaap's Campaign/1. Player Characters/Allaric Strange.md",
+    "Jaap's Campaign/Gods/Chauntea.md",
+    "Jaap's Campaign/Gods/Raven Queen.md",
+    "Mayor Ramsay.md",
     "Jaap's Campaign/Gods",
     "Jaap's Campaign/Lore",
     "z_attachments/images/Welmouth-20241107113544057.webp",
@@ -217,7 +275,6 @@
     "Jaap's Campaign/Locations/The Bay of Liberty/Mulchum",
     "z_attachments/images/Candlemore-20241107112957728.webp",
     "Jaap's Campaign/Locations/The Bay of Liberty/Candlemore",
-    "z_attachments/images/The Bay of Liberty-20241107112845473.webp",
     "Jaap's Campaign/Locations/The Bay of Liberty",
     "z_attachments/images/Allaric Strange-20241106195411837.webp",
     "z_attachments/images/Pasted image 20241106195309.webp",

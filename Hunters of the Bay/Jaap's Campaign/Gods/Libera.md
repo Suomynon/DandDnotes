@@ -7,7 +7,8 @@ tags:
 ---
 
 ## Description
-Goddess of Love, Beauty, Sex etc...
+Goddess of Love, Beauty, Sex, Friendship, Loyalty
+
 Mandy has a Libera necklace we found at Dylan's Dungeon
 
 ## Notes

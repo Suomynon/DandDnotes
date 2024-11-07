@@ -1,20 +1,14 @@
 ---
-Name: Temple of Selune
+Name: Town Hall
 Description: 
 Contains: 
-InLocation: 
+InLocation: "[[Candlemore]]"
 tags:
   - Location
 ---
 
 
 ### Description
-God of the moon.
-One story Temple
-Very thick stone doors
-Currently at war with Shar.
-Legend goes that they both created the race of Elves (Drow and High Elves)
-
 
 
 ### Map
