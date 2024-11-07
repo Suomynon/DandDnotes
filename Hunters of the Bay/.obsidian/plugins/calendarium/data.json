@@ -1,0 +1,250 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Jaap's Calendar",
+      "description": "Calendar used during Jaap's Campaign",
+      "id": "ID_696ab9e8b979",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_4a4aa918faca"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_290b5a58395a"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_9808da5aeac8"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_6b9a6a79e93a"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_d959a8f85a68"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_1a7b6a287878"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_3ad9d9690b88"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Capricorn",
+            "length": 30,
+            "id": "ID_3b7b78099958",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Aquarius",
+            "length": 30,
+            "id": "ID_fbe9c889593a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Pisces",
+            "length": 30,
+            "id": "ID_28a8ba29caf9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Aries",
+            "length": 30,
+            "id": "ID_ab4b0a48abab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Taurus",
+            "length": 30,
+            "id": "ID_e8b84a691afa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Gemini",
+            "length": 30,
+            "id": "ID_29c9f8997a2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Cancer",
+            "length": 30,
+            "id": "ID_d8697939e87b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Leo",
+            "length": 30,
+            "id": "ID_ba898bfbba39",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Virgo",
+            "length": 30,
+            "id": "ID_0859eb1b1b3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Libra",
+            "length": 30,
+            "id": "ID_a83ac8bb6aba",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Scorpio",
+            "length": 30,
+            "id": "ID_ba4b195a186a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sagittarius",
+            "length": 30,
+            "id": "ID_e89acb1b69ba",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon 1",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_5a09e9680a28"
+          },
+          {
+            "name": "Moon 2",
+            "cycle": 360,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_888b980b69fa"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 28,
+        "month": 9,
+        "year": 1349
+      },
+      "events": [
+        {
+          "name": "Arrived in Candlemore",
+          "description": "The party arrived in Candlemore",
+          "date": {
+            "month": 9,
+            "day": 27,
+            "year": 1349
+          },
+          "id": "ID_0a285baab8e8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Harvest Festival in Candlemore",
+          "description": "Harvest Festival in Candlemore",
+          "date": {
+            "month": 9,
+            "day": 29,
+            "year": 1349
+          },
+          "id": "ID_5bcad9aaa9bb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_696ab9e8b979",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

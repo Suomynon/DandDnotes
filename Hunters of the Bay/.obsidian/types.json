@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Race": "multitext",
+    "Class": "multitext",
+    "Languages": "multitext",
+    "Trained Skills": "multitext",
+    "AC": "number",
+    "Perception": "number",
+    "Insight": "number",
+    "Investigation": "number",
+    "Player": "multitext"
+  }
+}

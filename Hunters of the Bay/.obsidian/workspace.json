@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Jaap's Campaign/1. Player Characters/Mandy Moore.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f0080a4eedf781e6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be1dca96215d79a7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Mandy Moore"
             }
           }
         ]
@@ -160,13 +145,53 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "40fe90c607e922e6",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "faeafb29dbbe3895",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
+          },
+          {
+            "id": "26e1866b7bc81d0c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "67b1c3ec662a29b4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,11 +200,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "calendarium:Open Calendarium": false,
+      "notion-like-tables:Create loom": false,
+      "dbfolder:Create a new database table": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "f8ab7a870b96a215",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Jaap's Campaign/1. Player Characters/Dr. T.md",
+    "Jaap's Campaign/1. Player Characters/Mandy Moore.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Jaap's Campaign/NPCs/Small raccoon person.md",
+    "Jaap's Campaign/NPCs/Roger O'Brian.md",
+    "Jaap's Campaign/NPCs/NPCs.md",
+    "Jaap's Campaign/NPCs/Rick Biggum.md",
+    "Jaap's Campaign/NPCs/Maya Flatfoot.md",
+    "Jaap's Campaign/NPCs/Maeve Blossom.md",
+    "Jaap's Campaign/NPCs/John Wilks.md",
+    "Jaap's Campaign/NPCs/Hurdiny.md",
+    "Jaap's Campaign/NPCs/Henry Blossom.md",
+    "Jaap's Campaign/NPCs/Gremlin.md",
+    "Jaap's Campaign/NPCs/George Wilks.md",
+    "Jaap's Campaign/NPCs/Ethel Merman.md",
+    "Jaap's Campaign/NPCs/Bing Biggum.md",
+    "Jaap's Campaign/NPCs/Arae O'Brian.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Welmouth.md",
+    "z_attachments/images/Welmouth-20241107113544057.webp",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Oldwater/Oldwater.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Tavern.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Rick Biggum's Things and Stuff.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Alfred's Butchery.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Ethel's House.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Oldwater/Bing Biggum's Things and Stuff.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Mulchum/Mulchum.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Oldwater",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Mulchum",
+    "z_attachments/images/Candlemore-20241107112957728.webp",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Candlemore",
+    "z_attachments/images/The Bay of Liberty-20241107112845473.webp",
+    "Jaap's Campaign/Locations/The Bay of Liberty",
+    "z_attachments/images/Allaric Strange-20241106195411837.webp",
+    "z_attachments/images/Pasted image 20241106195309.webp",
+    "z_attachments/images",
+    "z_Templates",
+    "z_attachments",
+    "Session Notes",
+    "Jaap's Campaign/NPCs"
   ]
 }
