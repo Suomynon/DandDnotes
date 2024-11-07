@@ -1,5 +1,6 @@
 ---
 Price: 
+Description: 
 OwnedBy: 
 tags:
   - Item

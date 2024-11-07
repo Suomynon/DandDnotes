@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jaap's Campaign/1. Player Characters/Mandy Moore.md",
+                "file": "Jaap's Campaign/Locations/Locations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mandy Moore"
+              "title": "Locations"
             }
           }
         ]
@@ -89,84 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "574028bb7d2bc35f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
-            }
-          },
-          {
-            "id": "7149ac699da9e8bb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Welcome.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "3767dab1bad28077",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "75d57f58a0980158",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "40fe90c607e922e6",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
-            }
-          },
-          {
-            "id": "faeafb29dbbe3895",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
-            }
-          },
-          {
             "id": "26e1866b7bc81d0c",
             "type": "leaf",
             "state": {
@@ -185,9 +107,58 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "e09249ba4ef67a10",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_696ab9e8b979",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 10,
+                    "year": 1349
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 9,
+                    "year": 1349
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_8ae9fb5878f9",
+                "child": "ID_191939e84819"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
+      },
+      {
+        "id": "137d20201b3e646f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cef66b96dcb1fdc",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_696ab9e8b979",
+                "id": "ID_191939e84819",
+                "parent": "ID_8ae9fb5878f9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,44 +173,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "calendarium:Open Calendarium": false,
       "notion-like-tables:Create loom": false,
       "dbfolder:Create a new database table": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "f8ab7a870b96a215",
   "lastOpenFiles": [
-    "Jaap's Campaign/1. Player Characters/Dr. T.md",
-    "Jaap's Campaign/1. Player Characters/Mandy Moore.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 1.md",
-    "Jaap's Campaign/NPCs/Small raccoon person.md",
-    "Jaap's Campaign/NPCs/Roger O'Brian.md",
+    "Jaap's Campaign/Locations/The Bay of Liberty/Candlemore/Candlemore.md",
+    "Jaap's Campaign/Locations/Locations.md",
+    "Jaap's Campaign/Lore/Lore.md",
+    "Jaap's Campaign/Lore/Writings of the Lady of Light.md",
     "Jaap's Campaign/NPCs/NPCs.md",
-    "Jaap's Campaign/NPCs/Rick Biggum.md",
-    "Jaap's Campaign/NPCs/Maya Flatfoot.md",
-    "Jaap's Campaign/NPCs/Maeve Blossom.md",
-    "Jaap's Campaign/NPCs/John Wilks.md",
-    "Jaap's Campaign/NPCs/Hurdiny.md",
-    "Jaap's Campaign/NPCs/Henry Blossom.md",
-    "Jaap's Campaign/NPCs/Gremlin.md",
-    "Jaap's Campaign/NPCs/George Wilks.md",
-    "Jaap's Campaign/NPCs/Ethel Merman.md",
+    "Session Notes/Session Notes.md",
     "Jaap's Campaign/NPCs/Bing Biggum.md",
+    "Jaap's Campaign/Items/Items.md",
+    "Jaap's Campaign/Gods/Gods.md",
+    "Jaap's Campaign/1. Player Characters/1. Player Characters.md",
+    "Jaap's Campaign/Gods/Chauntea.md",
+    "Jaap's Campaign/Gods/Spirit of the River.md",
+    "Jaap's Campaign/Gods/Selune.md",
+    "Jaap's Campaign/Gods/Raven Queen.md",
+    "Jaap's Campaign/Gods/Libera.md",
+    "Session Notes/Session 20240926.md",
+    "Session Notes/Session 20241010.md",
+    "z_Templates/Session Notes Template.md",
+    "z_Templates/NPC Template.md",
+    "z_Templates/Lore Template.md",
+    "z_Templates/Location Template.md",
+    "z_Templates/Item Template.md",
+    "z_Templates/Character Template.md",
+    "z_Templates/God Template.md",
+    "Jaap's Campaign/Lore/The Order of the Black Knights.md",
     "Jaap's Campaign/NPCs/Arae O'Brian.md",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Welmouth.md",
+    "Jaap's Campaign/Gods",
+    "Jaap's Campaign/Lore",
     "z_attachments/images/Welmouth-20241107113544057.webp",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Oldwater/Oldwater.md",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Tavern.md",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Rick Biggum's Things and Stuff.md",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Alfred's Butchery.md",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth/Ethel's House.md",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Oldwater/Bing Biggum's Things and Stuff.md",
-    "Jaap's Campaign/Locations/The Bay of Liberty/Mulchum/Mulchum.md",
     "Jaap's Campaign/Locations/The Bay of Liberty/Welmouth",
     "Jaap's Campaign/Locations/The Bay of Liberty/Oldwater",
     "Jaap's Campaign/Locations/The Bay of Liberty/Mulchum",
@@ -251,8 +223,6 @@
     "z_attachments/images/Pasted image 20241106195309.webp",
     "z_attachments/images",
     "z_Templates",
-    "z_attachments",
-    "Session Notes",
-    "Jaap's Campaign/NPCs"
+    "z_attachments"
   ]
 }
